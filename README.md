@@ -9,4 +9,6 @@ This guide is created for people with little to none prior programming experienc
 
 Intro.
 
-So, you've decided to discover the beautiful world of blockchain and Web3 development for youself, but you're intimidated, lost and don;t know where to start? Amazing, I welcome you on this path, let me be your guide. 
+So, you've decided to discover the beautiful world of blockchain and Web3 development for youself, but you're intimidated, lost and don't know where to start? Amazing, I welcome you on this path, let me be your guide! As mentioned previously this guide is designed for people with very little or no previous coding experience. I just think it is not fair that a wast majority of guides out there assume that you're an experienced Web2 developer transfering to Web3. In that case you learning curve will be much easier and faster, since you already know most of the programming concepts and methods. You can compare it to learning a new foreign language, where people with prior knowledge of other languages learn new ones much faster. 
+
+Luckily it is not the case for you, and It was not the case for me, we have to start from the A's and B's of programming. Why did I say luckily? Because it is an amazing chalenge after successfully competing which, you will become much more knoiwledgable, having discovered whole world of Blockchain, with it's secrets and opportunities.
