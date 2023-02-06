@@ -7,7 +7,7 @@ In this repo I will collect all necessary sources and guides, with my comments, 
 This guide is created for people with little to none prior programming experience, who want to start discovering the amazing world of Blockchain and Web3 development. Thus, our focus is basically on getting your programming skills from zero to a confident blockchain user, who can confidently use programming documentation and creating your own projects without external help.
 
 
-Intro
+  Intro
 
 
 So, you've decided to discover the beautiful world of blockchain and Web3 development for yourself, but you're intimidated, lost and don't know where to start? Amazing, I welcome you on this path, let me be your guide! As mentioned previously, this guide is designed for people with very little or no previous coding experience. I just think it is not fair that a vast majority of guides out there assume that you're an experienced Web2 developer, transferring to Web3. In that case, your learning curve will be much easier and faster, since you already know most of the programming concepts and methods. You can compare it to learning a new foreign language, where people with prior knowledge of other languages learn new ones much faster. 
@@ -21,7 +21,7 @@ Welcome to the world of computing and programming! It is hard to imagine a perso
 
 Our first goal on the path of becomming a Blockchain developer is to change that! Before getting into the world of smart contracts, blockchain, NFTs and DeFis we will first learn how the computer hardware and software operate, how does the internet work, what's the future of computing technology? Even if you're familiar with many basic concepts of computing, I highly reccomend not skipping this first step of learning how to stand, before trying to walk.
 
-Sources and materials:
+  Sources and materials:
 
 There's an uncountable ammount of crash courses on entry level computing and programming, which really depends on wehther you like to read, watch or listen your material, make sure this preparatory stage isn't taking too long for you, roughly speaking couple of weeks should be more than enough. I personally found the way of explanation and slicing of the material in this popular video course: https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo
 
