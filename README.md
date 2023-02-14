@@ -43,5 +43,5 @@ To learn JS from start is not an impossible although not an easy task. Short you
 
 Ideally you should practise coding everyday! Even if it is just 15-20 minutes sometimes. Might seem not like much but you will progress much much faster comppared to people who do several days or more of pausing.
 
-So, our main goal is to get comfortable at Web development, using all modern packages for JS as React, Node etc. Let's say you should be able to create a website or simple Web application 
+So, our main goal is to get comfortable at Web development, using all modern packages for JS as React, Node etc. Let's say you should be able to create a website using React and Next with a good degree on confidence.
 
