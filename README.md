@@ -43,5 +43,7 @@ To learn JS from start is not an impossible although not an easy task. Short you
 
 Ideally you should practise coding everyday! Even if it is just 15-20 minutes sometimes. Might seem not like much but you will progress much much faster comppared to people who do several days or more of pausing.
 
-So, our main goal is to get comfortable at Web development, using all modern packages for JS as React, Node etc. Let's say you should be able to create a website using React and Next with a good degree on confidence.
+So, our main goal is to get comfortable at Web development, using all modern packages for JS as React, Node etc. Let's say you should be able to create a website using React, Node, Next frameworks with a good degree on confidence. Real life development very rarely happens without using any external souces or other people's codes. As a matter of fact it is much more importnat as a developer to master Google and Stack Overflow searches than perfectly knowing syntaxis of a language. Your coding process at this stage will be combined of reusing bits of other peoples code, watching tutorials and browsing through developer documents.
+
+At this stage it is already a good time to start building your programming portfolio, so all possible employers and collegueas could appricate your hard work. By far the most popular option for creating public repositories is Github, register there and get used to using it- https://github.com/
 
